@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <name>x_movies</name>
+        <label>Movies</label>
+        <extends/>
+        <super_class/>
+        <create_access>true</create_access>
+        <delete_access>true</delete_access>
+        <read_access>true</read_access>
+        <update_access>true</update_access>
+        <access>public</access>
+        <create_access_controls>true</create_access_controls>
+        <configuration_access>false</configuration_access>
+        <delete_access_controls>true</delete_access_controls>
+        <is_extendable>false</is_extendable>
+        <label_plural>Movies</label_plural>
+        <live_feed_enabled>false</live_feed_enabled>
+        <number_ref/>
+        <provider_class/>
+        <read_access_controls>true</read_access_controls>
+        <scriptable_table>false</scriptable_table>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-23 08:44:00</sys_created_on>
+        <sys_id/>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Movies</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope/>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-23 08:44:00</sys_updated_on>
+        <text_index>false</text_index>
+        <update_access_controls>true</update_access_controls>
+        <user_role/>
+        <ws_enabled>true</ws_enabled>
+    </sys_db_object>
+</record_update>
+
+<!-- Movie Name Field -->
+<record_update table="sys_dictionary">
+    <sys_dictionary action="INSERT_OR_UPDATE">
+        <name>x_movies</name>
+        <element>movie_name</element>
+        <column_label>Movie Name</column_label>
+        <name>x_movies</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-23 08:44:00</sys_created_on>
+        <sys_id/>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_movies</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope/>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-23 08:44:00</sys_updated_on>
+        <type>string</type>
+        <max_length>100</max_length>
+        <mandatory>false</mandatory>
+        <read_only>false</read_only>
+        <reference/>
+        <default_value/>
+        <display>true</display>
+        <choice/>
+        <choice_field/>
+        <column_name>movie_name</column_name>
+        <internal_type>string</internal_type>
+        <unique>false</unique>
+        <active>true</active>
+        <audit>false</audit>
+        <calculation/>
+        <comments/>
+        <dependent/>
+        <dependent_on_field/>
+        <display_by_ref>false</display_by_ref>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element_label>Movie Name</element_label>
+        <element_reference/>
+        <foreign_key/>
+        <function_field>false</function_field>
+        <hint/>
+        <index>false</index>
+        <language>en</language>
+        <length>100</length>
+        <localization/>
+        <name>x_movies</name>
+        <next_element/>
+        <previous_element/>
+        <primary>false</primary>
+        <query_filter/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <scale>0</scale>
+        <size_class/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <text_index>false</text_index>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+    </sys_dictionary>
+</record_update>
+
+<!-- Release Date Field -->
+<record_update table="sys_dictionary">
+    <sys_dictionary action="INSERT_OR_UPDATE">
+        <name>x_movies</name>
+        <element>release_date</element>
+        <column_label>Release Date</column_label>
+        <name>x_movies</name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-23 08:44:00</sys_created_on>
+        <sys_id/>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_movies</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope/>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-23 08:44:00</sys_updated_on>
+        <type>string</type>
+        <max_length>50</max_length>
+        <mandatory>false</mandatory>
+        <read_only>false</read_only>
+        <reference/>
+        <default_value/>
+        <display>true</display>
+        <choice/>
+        <choice_field/>
+        <column_name>release_date</column_name>
+        <internal_type>string</internal_type>
+        <unique>false</unique>
+        <active>true</active>
+        <audit>false</audit>
+        <calculation/>
+        <comments/>
+        <dependent/>
+        <dependent_on_field/>
+        <display_by_ref>false</display_by_ref>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element_label>Release Date</element_label>
+        <element_reference/>
+        <foreign_key/>
+        <function_field>false</function_field>
+        <hint/>
+        <index>false</index>
+        <language>en</language>
+        <length>50</length>
+        <localization/>
+        <name>x_movies</name>
+        <next_element/>
+        <previous_element/>
+        <primary>false</primary>
+        <query_filter/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <scale>0</scale>
+        <size_class/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <text_index>false</text_index>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <widget/>
+        <write_roles/>
+    </sys_dictionary>
+</record_update>
+
+<!-- Module in Application Navigator -->
+<record_update table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application/>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Movies</mobile_title>
+        <name>x_movies</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-23 08:44:00</sys_created_on>
+        <sys_id/>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Movies</sys_name>
+        <sys_package/>
+        <sys_policy/>
+        <sys_scope/>
+        <sys_update_name/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-23 08:44:00</sys_updated_on>
+        <title>Movies</title>
+        <u_color/>
+        <u_font_color/>
+        <u_font_size/>
+        <u_image/>
+        <u_show_count>false</u_show_count>
+        <u_slushbucket_id/>
+        <u_tooltip/>
+        <u_url/>
+        <u_window_name/>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
