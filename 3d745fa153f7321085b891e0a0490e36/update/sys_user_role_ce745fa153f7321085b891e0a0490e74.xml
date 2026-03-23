@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default user role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <federated_id>VDnvzafabQxnjNgAQGvRwpnj8hyJZFyd5rRCNDrWEDY=</federated_id>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_854060_movie.user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-23 10:15:46</sys_created_on>
+        <sys_id>ce745fa153f7321085b891e0a0490e74</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_854060_movie.user</sys_name>
+        <sys_package display_value="Movie" source="x_854060_movie">3d745fa153f7321085b891e0a0490e36</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Movie">3d745fa153f7321085b891e0a0490e36</sys_scope>
+        <sys_update_name>sys_user_role_ce745fa153f7321085b891e0a0490e74</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-23 10:15:46</sys_updated_on>
+    </sys_user_role>
+</record_update>
