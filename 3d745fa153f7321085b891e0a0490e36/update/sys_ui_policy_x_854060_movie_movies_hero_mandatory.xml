@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions/>
+        <description/>
+        <global>true</global>
+        <inherit>false</inherit>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>false</reverse_if_false>
+        <run_scripts>false</run_scripts>
+        <script_false/>
+        <script_true/>
+        <set_values/>
+        <short_description>Make Hero field mandatory</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-25 08:49:00</sys_created_on>
+        <sys_id>uipolicy1234567890abcdef1234567890</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Make Hero field mandatory</sys_name>
+        <sys_package display_value="Movie">3d745fa153f7321085b891e0a0490e36</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Movie">3d745fa153f7321085b891e0a0490e36</sys_scope>
+        <sys_update_name>sys_ui_policy_x_854060_movie_movies_hero_mandatory</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-25 08:49:00</sys_updated_on>
+        <table>x_854060_movie_movies</table>
+        <ui_type>0</ui_type>
+        <view_name/>
+    </sys_ui_policy>
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>false</disabled>
+        <field>hero</field>
+        <mandatory>true</mandatory>
+        <visible>true</visible>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-03-25 08:49:00</sys_created_on>
+        <sys_id>uiaction1234567890abcdef1234567890</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_policy/>
+        <sys_update_name>sys_ui_policy_action_x_854060_movie_movies_hero_mandatory</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-03-25 08:49:00</sys_updated_on>
+        <ui_policy display_value="Make Hero field mandatory">uipolicy1234567890abcdef1234567890</ui_policy>
+    </sys_ui_policy_action>
+</record_update>
