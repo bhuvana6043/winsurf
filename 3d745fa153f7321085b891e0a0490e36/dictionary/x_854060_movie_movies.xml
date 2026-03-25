@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c054c41a53bb361085b891e0a0490e9a" label="Movies" max_length="40" name="x_854060_movie_movies" type="collection">
+        <element label="Release Date" max_length="40" name="release_date" type="string"/>
+        <element label="Movie Name" max_length="40" name="movie_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
