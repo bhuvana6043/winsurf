@@ -4,5 +4,6 @@
         <element label="Movie Name" max_length="40" name="movie_name" type="string"/>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Hero" max_length="32" name="hero" type="reference" reference="sys_user"/>
+        <element label="Heroine" max_length="255" name="heroine" type="string"/>
     </element>
 </database>
