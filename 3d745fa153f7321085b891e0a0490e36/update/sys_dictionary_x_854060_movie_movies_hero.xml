@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary">
-    <sys_dictionary action="INSERT_OR_UPDATE">
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="INSERT_OR_UPDATE" element="hero" table="x_854060_movie_movies">
         <active>true</active>
-        <array_type/>
-        <array_denormalized>false</array_denormalized>
-        <audit>false</audit>
+        <array>false</array>
         <attributes/>
+        <audit>false</audit>
         <calculation/>
-        <choice/>
+        <choice>0</choice>
         <choice_field/>
         <choice_table/>
         <column_label>Hero</column_label>
