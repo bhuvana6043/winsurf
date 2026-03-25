@@ -4,13 +4,55 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2026-03-25 02:53:11</sys_created_on>
-            <sys_id>1a52401653bb361085b891e0a0490e01</sys_id>
+            <sys_created_on>2026-03-25 03:22:51</sys_created_on>
+            <sys_id>cd29449253fb361085b891e0a0490e31</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_854060_movie_movies" sys_domain="global" view="Default view">d652001653bb361085b891e0a0490ef9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2026-03-25 02:53:11</sys_updated_on>
+            <sys_updated_on>2026-03-25 03:22:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>movie_name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-25 03:22:51</sys_created_on>
+            <sys_id>8929449253fb361085b891e0a0490e32</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_854060_movie_movies" sys_domain="global" view="Default view">d652001653bb361085b891e0a0490ef9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-25 03:22:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>release_date</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-25 03:22:51</sys_created_on>
+            <sys_id>4529449253fb361085b891e0a0490e33</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_854060_movie_movies" sys_domain="global" view="Default view">d652001653bb361085b891e0a0490ef9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-25 03:22:51</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>hero</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-03-25 03:22:51</sys_created_on>
+            <sys_id>0129449253fb361085b891e0a0490e34</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_854060_movie_movies" sys_domain="global" view="Default view">d652001653bb361085b891e0a0490ef9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-03-25 03:22:51</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
